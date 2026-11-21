@@ -1,0 +1,10 @@
+﻿doc_id,source,file_type,visibility,department,status,version,doc_kind
+KB01,knowledge/产品版本与容量.md,md,public,all,active,2026.10,policy
+KB02,knowledge/售后服务规则.md,md,public,all,active,2026.10,policy
+KB03,knowledge/售后服务规则_旧版.md,md,public,all,archived,2026.07,policy
+KB04,knowledge/开通与验收流程.txt,txt,public,all,active,2026.10,policy
+KB05,knowledge/常见问题.csv,csv,public,all,active,2026.10,faq
+KB06,knowledge/support_升级与退款处理.md,md,internal,support,active,2026.10,policy
+KB07,knowledge/delivery_实施交接清单.md,md,internal,delivery,active,2026.10,policy
+KB08,knowledge/support_客户反馈摘录.txt,txt,internal,support,active,2026.10,feedback
+KB09,knowledge/退款与注销FAQ.csv,csv,public,all,active,2026.10,faq

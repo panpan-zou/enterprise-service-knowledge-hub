@@ -1,0 +1,14 @@
+{
+  "visitor_demo": {
+    "principal_id": "demo-visitor-01",
+    "department": "guest"
+  },
+  "support_demo": {
+    "principal_id": "demo-support-01",
+    "department": "support"
+  },
+  "delivery_demo": {
+    "principal_id": "demo-delivery-01",
+    "department": "delivery"
+  }
+}
